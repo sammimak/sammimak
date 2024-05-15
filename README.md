@@ -1,4 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sammi Mak</h1>
+<div id="header" align="center">
+  <div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/IpeYSEZshTefe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe">via GIPHY</a></p>
+</div>
 <h3 align="center">A innovatory full-stack developer</h3>
 <p align="left">
 </p>
