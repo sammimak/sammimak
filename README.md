@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Sammi Mak</h1>
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
+<p align="right"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p>
+  <img align="left" alt="GIF" src="https://github.com/sammimak/sammimak/master/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+</p>
 <h3 align="center">A Impressive full-stack developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
