@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sammi Mak</h1>
+<h1 align="center">Hello 👋, I'm DreamDev</h1>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <p align="left">
   <img alt="GIF" src="https://github.com/sammimak/sammimak/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
